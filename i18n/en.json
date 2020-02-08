@@ -1,0 +1,16 @@
+{
+  "password": "Password",
+  "key_must_be_at_least_6_characters": "Must be at least 6 characters",
+  "email": "Email",
+  "key_please_enter_valid_email": "Please enter valid email",
+  "key_please_enter_valid_password": "please enter valid password",
+  "Log in":"Log in",
+  "Show_password":"Show Password",
+  "Hide_password":"Hide Paswword",
+  "Get_start":"Let's get Start",
+  "Have_account":"Have an account?",
+  "Create_Account":"Create Account",
+  "Forget_password":"Forget Password",
+  "Confirm_Password":"Confirm Password",
+  "Sing_Up":"Sing Up"
+}

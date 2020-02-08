@@ -1,0 +1,16 @@
+
+{
+  "password": "باسورد",
+  "key_must_be_at_least_6_characters": "على الاقل ٦ حروف",
+  "email": "ايميل",
+  "key_please_enter_valid_email": "من فضلك ادخل الايميل بشكل صحيح",
+  "Log in": "دخول",
+  "Show_password":"اظهار الباسورد",
+  "Hide_password":"اخفاء الباسورد",
+  "Get_start":"تسجيل الدخول",
+  "Have_account":"تملك حساب؟",
+  "Create_Account":"تسجيل",
+  "Forget_password":"هل نسيت الرقم السرى؟",
+  "Confirm_Password":"تاكيد الرقم السرى",
+  "Sing_Up":"تسجيل"
+}
